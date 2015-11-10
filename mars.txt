@@ -1,4 +1,4 @@
-cat mars.txt
 The two moons may be a problem for Wolfman
 Cold and dry, but everything is my favorite color. Lousy candy bar, though.
 
+But the Mummy will appreciate the lack of humidity
